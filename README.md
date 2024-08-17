@@ -1,2 +1,2 @@
-# SSD_LAB1
-Basic basic commands
+# SSD_LAB1 
+Basic linux commands
